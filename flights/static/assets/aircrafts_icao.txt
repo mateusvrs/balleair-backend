@@ -1,0 +1,1887 @@
+A1	Douglas	
+A10	Fairchild	
+A109	Agusta / AgustaWestland	
+A119	Agusta / AgustaWestland	
+A124	Antonow / Antonov	
+A129	Agusta / AgustaWestland	
+A139	Agusta / AgustaWestland	
+A140	Antonow / Antonov	
+A140	HESA	
+A148	Antonow / Antonov	
+A20	Douglas	
+A225	Antonow / Antonov	
+A270	AERO	
+A270	Ibis	
+A2RT	Kazan	
+A3	Douglas	
+A306	Airbus	
+A30B	Airbus	
+A310	Airbus	
+A318	Airbus	
+A319	Airbus	
+A320	Airbus	
+A321	Airbus	
+A332	Airbus	
+A333	Airbus	
+A342	Airbus	
+A343	Airbus	
+A345	Airbus	
+A346	Airbus	
+A358	Airbus	
+A359	Airbus	
+A37	Cessna	
+A388	Airbus	
+A3ST	Airbus	
+A4	Douglas	
+A50	Beriev	
+A500	Adam	
+A504	AVRO	
+A6	Grumman	
+A6	Grumman	
+A660	Ayres	
+A660	Thrush	
+A7	Chance-Vought	
+A7	LTV	
+A700	Adam	
+A743	Antonow / Antonov	
+A748	AVRO	
+A748	BAe	
+A748	Hawker-Siddeley	
+A9	Aero Commander	
+A9	North American Rockwell	
+AA1	American	
+AA5	American	
+AA5	AGAC	
+AB11	Aero Boero	
+AB15	Aero Boero	
+AB18	Aero Boero	
+AB95	Aero Boero	
+AC11	North American Rockwell	
+AC11	Rockwell	
+AC11	Rockwell	
+AC11	Commander	
+AC11	Commander	
+AC50	Aero Commander	
+AC50	North American Rockwell	
+AC50	North American Rockwell	
+AC50	Rockwell	
+AC56	Aero Commander	
+AC68	Aero Commander	
+AC6L	North American Rockwell	
+AC6L	Aero Commander	
+AC6L	North American Rockwell	
+AC6L	Rockwell	
+AC6L	North American Rockwell	
+AC72	Aero Commander	
+AC72	Aero Commander	
+AC80	Aero Commander	
+AC80	North American Rockwell	
+AC90	Rockwell	
+AC90	American	
+AC90	North American Rockwell	
+AC90	Rockwell	
+AC95	American	
+AC95	Rockwell	
+AC95	American	
+ACAR	Auster	
+ACSR	Victa / AESL	
+ADVE	Auster	
+AE45	AERO	
+AE45	LET	
+AE45	LET	
+AEST	Ted Smith	
+AEST	Piper	
+AIGT	Auster	
+AIRD	Beagle	
+AJET	Dornier	
+AJET	Dassault-Breguet	
+ALH	HAL	
+ALIZ	Breguet	
+ALO2	Sud	
+ALO2	Aerospatiale / SNIAS	
+ALO2	Sud-Est	
+ALO3	Sud	
+ALO3	Aerospatiale / SNIAS	
+ALO3	HAL	
+ALO3	Sud	
+ALPI	Auster	
+AM3	Aermacchi / Macchi	
+AM3	Atlas	
+AMX	AMX	
+AMX	AMX	
+AN12	Antonow / Antonov	
+AN2	Antonow / Antonov	
+AN2	PZL Mielec	
+AN2	Nanchang	
+AN22	Antonow / Antonov	
+AN24	Antonow / Antonov	
+AN26	Antonow / Antonov	
+AN28	Antonow / Antonov	
+AN28	PZL Mielec	
+AN28	PZL Mielec	
+AN3	Antonow / Antonov	
+AN30	Antonow / Antonov	
+AN32	Antonow / Antonov	
+AN38	Antonow / Antonov	
+AN70	Antonow / Antonov	
+AN72	Antonow / Antonov	
+AN72	Antonow / Antonov	
+AN8	Antonow / Antonov	
+ANSN	AVRO	
+ANST	Kazan	
+AR11	Aeronca	
+AR11	HAL	
+AR15	Aeronca	
+AR79	Arado	
+ARON	General Avia	
+ARVA	IAI	
+AS02	FFA	
+AS2T	FFA	
+AS32	Atlas	
+AS32	Aerospatiale / SNIAS	
+AS32	Eurocopter	
+AS32	Aerospatiale / SNIAS	
+AS32	Airbus (Helicopters)	
+AS3B	Aerospatiale / SNIAS	
+AS3B	Eurocopter	
+AS3B	Aerospatiale / SNIAS	
+AS3B	Eurocopter	
+AS50	Aerospatiale / SNIAS	
+AS50	Eurocopter	
+AS50	Aerospatiale / SNIAS	
+AS50	Eurocopter	
+AS50	Aerospatiale / SNIAS	
+AS50	Eurocopter	
+AS50	Aerospatiale / SNIAS	
+AS50	Eurocopter	
+AS55	Aerospatiale / SNIAS	
+AS55	Eurocopter	
+AS55	Aerospatiale / SNIAS	
+AS55	Eurocopter	
+AS55	Aerospatiale / SNIAS	
+AS55	Eurocopter	
+AS65	Aerospatiale / SNIAS	
+AS65	Eurocopter	
+AS65	Aerospatiale / SNIAS	
+AS65	Eurocopter	
+AS65	Chance-Vought	
+AS65	HAMC / Harbin	
+ASTR	IAI	
+ASTR	IAI	
+AT3	AIDC	
+AT3P	Air Tractor	
+AT3T	Air Tractor	
+AT43	ATR	
+AT44	ATR	
+AT45	ATR	
+AT5P	Air Tractor	
+AT5T	Air Tractor	
+AT6T	Air Tractor	
+AT72	ATR	
+AT8T	Air Tractor	
+ATLA	Dassault-Breguet	
+ATP	BAe	
+AU11	Beagle	
+AUJ2	Auster	
+AUJ4	Auster	
+AUS3	Taylorcraft	
+AUS4	Taylorcraft	
+AUS5	Auster	
+AUS5	Taylorcraft	
+AUS6	Auster	
+AUS6	Beagle	
+AUS6	Taylorcraft	
+AUS7	Auster	
+AUS9	Auster	
+AVIN	AVRO	
+B06	Agusta / AgustaWestland	
+B06	Bell Helicopter	
+B06T	Tridair	
+B06T	Bell Helicopter	
+B1	Rockwell	
+B103	Beriev	
+B105	MBB	
+B14A	Bellanca	
+B14C	Bellanca	
+B17	Boeing	
+B18T	Beech	
+B190	Beech	
+B2	Northrop	
+B209	Bölkow	
+B212	Bell Helicopter	
+B212	Agusta / AgustaWestland	
+B212	Bell Helicopter	
+B214	Bell Helicopter	
+B222	Bell Helicopter	
+B23	Douglas	
+B230	Bell Helicopter	
+B24	Consolidated	
+B25	North American	
+B26	Douglas	
+B26M	Martin	
+B29	Boeing	
+B350	Beech	
+B36T	Beech	
+B407	Bell Helicopter	
+B412	Bell Helicopter	
+B412	Agusta / AgustaWestland	
+B412	Bell Helicopter	
+B427	Bell Helicopter	
+B427	KAI	
+B429	Bell Helicopter	
+B430	Bell Helicopter	
+B461	BAe	
+B462	BAe	
+B463	BAe	
+B47G	Bell Helicopter	
+B47G	Kawasaki	
+B47G	Agusta / AgustaWestland	
+B47G	Westland	
+B47J	Bell Helicopter	
+B47J	Agusta / AgustaWestland	
+B52	Boeing	
+B609	Bell-Agusta	
+B701	Boeing	
+B703	Boeing	
+B703	Boeing	
+B712	Boeing	
+B720	Boeing	
+B721	Boeing	
+B721	Boeing	
+B722	Boeing	
+B731	Boeing	
+B732	Boeing	
+B733	Boeing	
+B734	Boeing	
+B735	Boeing	
+B736	Boeing	
+B737	Boeing	
+B737	Boeing	
+B738	Boeing	
+B739	Boeing	
+B741	Boeing	
+B742	Boeing	
+B742	Boeing	
+B743	Boeing	
+B744	Boeing	
+B748	Boeing	
+B74R	Boeing	
+B74S	Boeing	
+B752	Boeing	
+B752	Boeing	
+B753	Boeing	
+B762	Boeing	
+B763	Boeing	
+B764	Boeing	
+B772	Boeing	
+B773	Boeing	
+B77L	Boeing	
+B77L	Boeing	
+B77W	Boeing	
+B788	Boeing	
+B789	Boeing	
+BA11	BAC	
+BA11	ROMBAC	
+BABY	Canadian Home Rotors	
+BASS	Beagle	
+BCAT	Grumman	
+BCS1	Bombardier	
+BCS3	Bombardier	
+BDOG	Beagle	
+BDOG	BAe	
+BDOG	Scottish Aviation	
+BE10	Beech	
+BE12	Beriev	
+BE17	Beech	
+BE18	Beech	
+BE20	Beech	
+BE20	Beech	
+BE23	Beech	
+BE23	Beech	
+BE24	Beech	
+BE24	Beech	
+BE30	Beech	
+BE32	Beriev	
+BE32	Beriev	
+BE33	Beech	
+BE33	Beech	
+BE33	HESA	
+BE35	Beech	
+BE36	Beech	
+BE40	Beech	
+BE40	Hawker-Beechcraft	
+BE50	Beech	
+BE50	Beech	
+BE55	Beech	
+BE58	Beech	
+BE60	Beech	
+BE65	Beech	
+BE70	Beech	
+BE76	Beech	
+BE77	Beech	
+BE80	Beech	
+BE88	Beech	
+BE95	Beech	
+BE99	Beech	
+BE9L	Beech	
+BE9T	Beech	
+BELF	Shorts	
+BER2	Beriev	
+BER4	Beriev	
+BFIT	Bristol	
+BFIT	Bristol	
+BK17	Eurocopter	
+BK17	Eurocopter-Kawasaki	
+BK17	Kawasaki	
+BK17	MBB	
+BK17	MBB-Kawasaki	
+BL11	Bleriot	
+BL17	Bellanca	
+BL19	Bellanca	
+BL8	Bellanca	
+BL8	Campion	
+BL8	American Champion	
+BL8	Bellanca	
+BL8	American Champion	
+BLCF	Boeing	
+BLEN	Bristol	
+BLEN	Bristol	
+BN2P	Britten Norman	
+BN2T	Britten Norman	
+BR14	Breguet	
+BRB2	Brantly	
+BROU	Max Holste	
+BSCA	Boeing	
+BSTP	Bell Helicopter	
+BU31	CASA	
+BU31	Bücker	
+BU33	CASA	
+BU33	Bücker	
+BU81	Bücker	
+BU81	Heliopolis	
+BU81	Zlin	
+BU81	Zlin	
+BU81	Zlin	
+BUC	Hawker-Siddeley	
+C02T	Cessna	
+C04T	Cessna	
+C06T	Cessna	
+C07T	Cessna	
+C1	Kawasaki	
+C101	CASA	
+C10T	Cessna	
+C119	Fairchild	
+C120	Cessna	
+C123	Fairchild	
+C125	Northrop	
+C130	Lockheed	
+C133	Douglas	
+C135	Boeing	
+C140	Cessna	
+C141	Lockheed	
+C14T	Cessna	
+C150	Cessna	
+C150	Cessna	
+C152	Cessna	
+C152	Cessna	
+C160	Transport Allianz	
+C162	Cessna	
+C17	Boeing	
+C17	McDonnell Douglas	
+C170	Cessna	
+C172	Cessna	
+C172	FMA	
+C175	Cessna	
+C177	Cessna	
+C180	Cessna	
+C182	Cessna	
+C182	FMA	
+C182	FMA	
+C182	Cessna	
+C185	Cessna	
+C185	Cessna	
+C188	Cessna	
+C188	FMA	
+C190	Cessna	
+C195	Cessna	
+C2	Grumman	
+C205	Cessna	
+C206	Cessna	
+C206	Cessna	
+C207	Cessna	
+C207	Cessna	
+C207	Cessna	
+C207	Cessna	
+C208	Cessna	
+C210	Cessna	
+C212	CASA	
+C21T	Cessna	
+C25A	Cessna	
+C25B	Cessna	
+C270	Caudron	
+C270	Caudron	
+C27J	Aeritalia	
+C295	CASA	
+C303	Cessna	
+C30J	Lockheed	
+C310	Cessna	
+C320	Cessna	
+C335	Cessna	
+C336	Cessna	
+C337	Cessna	
+C340	Cessna	
+C365	EKW / K+W	
+C402	Cessna	
+C402	Cessna	
+C404	Cessna	
+C411	Cessna	
+C414	Cessna	
+C421	Cessna	
+C425	Cessna	
+C425	Cessna	
+C441	Cessna	
+C441	Cessna	
+C46	Curtiss	
+C5	Lockheed	
+C500	Cessna	
+C501	Cessna	
+C510	Cessna	
+C525	Cessna	
+C526	Cessna	
+C550	Cessna	
+C550	Cessna	
+C550	Cessna	
+C551	Cessna	
+C560	Cessna	
+C560	Cessna	
+C560	Cessna	
+C56X	Cessna	
+C56X	Cessna	
+C650	Cessna	
+C650	Cessna	
+C650	Cessna	
+C680	Cessna	
+C72R	Cessna	
+C750	Cessna	
+C77R	Cessna	
+C82	Fairchild	
+C82R	Cessna	
+C82R	Cessna	
+C97	Boeing	
+CA19	CAC	
+CA25	CAC	
+CAML	Sopwith	
+CARV	Aviation Traders	
+CAT	Consolidated	
+CE43	Cerva	
+CG3	Caudron	
+CH1	AIDC	
+CH2T	JAI	
+CH40	Campion	
+CH7A	Aeronca	
+CH7A	American Champion	
+CH7A	Bellanca	
+CH7A	American Champion	
+CH7A	Bellanca	
+CH7A	Campion	
+CH7A	Campion	
+CH7B	Bellanca	
+CH7B	American Champion	
+CH7B	American Champion	
+CH80	JAI	
+CJ6	Nanchang	
+CKUO	AIDC	
+CL2P	Canadair	
+CL2T	Canadair	
+CL2T	Canadair	
+CL30	Bombardier	
+CL41	Canadair	
+CL41	Canadair	
+CL44	Canadair	
+CL4G	Canadair	
+CL60	Canadair	
+CL60	Canadair	
+CL60	Canadair	
+CL60	Canadair	
+CLB1	Aero Commander	
+CLB1	North American Rockwell	
+CMAS	Cessna	
+CN35	Airtech	
+CN35	CASA	
+CNBR	BAC	
+CONI	Lockheed	
+CORS	Chance-Vought	
+CORS	Vought-Sikorsky	
+COUR	Helio	
+CP10	CAP	
+CP10	Mudry	
+CP13	Piel	
+CP20	Mudry	
+CP21	Mudry	
+CP22	CAP	
+CP23	Mudry	
+CP30	Piel	
+CP32	Piel	
+CP60	Piel	
+CP75	Piel	
+CP80	Piel	
+CP90	Piel	
+CRES	PAC	
+CRJ1	Canadair	
+CRJ2	Canadair	
+CRJ7	Canadair	
+CRJ9	Canadair	
+CT4	AESL	
+CT4	PAC	
+CVLP	Convair	
+CVLP	Convair	
+CVLP	Convair	
+CVLP	Convair	
+CVLT	Canadair	
+CVLT	Canadair	
+CVLT	Convair	
+CVLT	Convair	
+CVLT	Convair	
+CYGT	Hawker	
+D11	Jodel	
+D11	Wassmer	
+D11	Jodel	
+D11	Wassmer	
+D140	Jodel	
+D140	Jodel	
+D140	Mudry	
+D150	Jodel	
+D18	Jodel	
+D228	Dornier	
+D228	HAL	
+D250	Robin / Apex	
+D253	Robin / Apex	
+D28D	Dornier	
+D28T	Dornier	
+D328	Dornier	
+D328	Fairchild-Dornier	
+D4	Auster	
+D4	Beagle	
+D5	Auster	
+D5	Beagle	
+D5	Beagle	
+D5	Beagle	
+D6	Auster	
+D6	Beagle	
+D7	Fokker	
+D8	Fokker	
+DA40	Diamond	
+DA42	Diamond	
+DA50	Diamond	
+DC10	McDonnell Douglas	
+DC10	McDonnell Douglas	
+DC2	Douglas	
+DC3	Douglas	
+DC3S	Douglas	
+DC3T	Basler	
+DC4	Douglas	
+DC6	Douglas	
+DC7	Douglas	
+DC85	Douglas	
+DC86	Douglas	
+DC87	Douglas	
+DC91	Douglas	
+DC91	McDonnell Douglas	
+DC92	Douglas	
+DC92	McDonnell Douglas	
+DC93	Douglas	
+DC93	McDonnell Douglas	
+DC94	Douglas	
+DC94	McDonnell Douglas	
+DC95	Douglas	
+DC95	McDonnell Douglas	
+DH2T	De Havilland Canada	
+DH3T	De Havilland Canada	
+DH60	De Havilland	
+DH80	De Havilland	
+DH82	De Havilland	
+DH83	De Havilland	
+DH85	De Havilland	
+DH87	De Havilland	
+DH88	De Havilland	
+DH89	De Havilland	
+DH8A	De Havilland Canada	
+DH8B	De Havilland Canada	
+DH8C	De Havilland Canada	
+DH8D	De Havilland Canada	
+DH90	De Havilland	
+DH94	De Havilland	
+DHA3	De Havilland Australia	
+DHC1	De Havilland	
+DHC2	De Havilland Canada	
+DHC3	De Havilland Canada	
+DHC4	De Havilland Canada	
+DHC5	De Havilland Canada	
+DHC6	De Havilland Canada	
+DHC7	De Havilland Canada	
+DJET	Diamond	
+DJIN	Sud-Ouest / SNCASO	
+DJIN	Sud	
+DO27	Dornier	
+DO28	Dornier	
+DOVE	De Havilland	
+DOVE	Hawker-Siddeley	
+DR1	Fokker	
+DR10	Robin / Apex	
+DV20	Diamond	
+DWD2	Dewoitine	
+DWD2	EKW / K+W	
+DWD2	Dewoitine	
+DWD2	EKW / K+W	
+E110	EMBRAER	
+E110	EMBRAER	
+E120	EMBRAER	
+E121	EMBRAER	
+E135	EMBRAER	
+E135	EMBRAER	
+E145	EMBRAER	
+E170	EMBRAER	
+E190	EMBRAER	
+E2	Grumman	
+E2	Northrop	
+E200	EXTRA	
+E230	EXTRA	
+E300	EXTRA	
+E314	EMBRAER	
+E3CF	Boeing	
+E3TF	Boeing	
+E400	EXTRA	
+E45X	EMBRAER	
+E500	EXTRA	
+E50P	EMBRAER	
+E55P	EMBRAER	
+E6	Boeing	
+EA50	Eclipse	
+EAGL	Christen	
+EC20	Eurocopter	
+EC20	HAMC / Harbin	
+EC20	Airbus (Helicopters)	
+EC25	Eurocopter	
+EC25	Eurocopter	
+EC25	Airbus (Helicopters)	
+EC30	Eurocopter	
+EC30	Airbus (Helicopters)	
+EC35	Eurocopter	
+EC35	Eurocopter	
+EC35	Airbus (Helicopters)	
+EC45	Eurocopter	
+EC45	Eurocopter-Kawasaki	
+EC45	Kawasaki	
+EC45	Eurocopter	
+EC45	Eurocopter-Kawasaki	
+EC45	Airbus (Helicopters)	
+EC55	Eurocopter	
+EC55	Airbus (Helicopters)	
+EDGE	Zivko	
+EH10	EH Industries	
+EH10	Agusta / AgustaWestland	
+EH10	EH Industries	
+EH10	Kawasaki	
+ELST	Pützer	
+EN28	Enstrom	
+EN28	Enstrom	
+EN48	Enstrom	
+ERCO	Air Products	
+ERCO	Forney / Fornaire	
+ERCO	Mooney	
+ERCO	ERCO	
+ETAR	Dassault	
+ETAR	Dassault	
+EUFI	Eurofighter	
+EUFI	Eurofighter	
+EUFI	Eurofighter	
+EUFI	Eurofighter	
+EXPL	MD Helicopters	
+F1	Mitsubishi	
+F100	Fokker	
+F104	Lockheed	
+F106	Convair	
+F111	General Dynamics	
+F117	Lockheed	
+F14	Grumman	
+F15	Boeing	
+F156	Morane-Saulnier	
+F156	Fieseler	
+F156	Benes-Mraz	
+F16	General Dynamics	
+F16	Lockheed	
+F18	Boeing	
+F18	McDonnell Douglas	
+F18	Boeing	
+F18	McDonnell Douglas	
+F2	Mitsubishi	
+F22	Lockheed	
+F260	Aermacchi / Macchi	
+F260	SIAI-Marchetti	
+F26T	SIAI-Marchetti	
+F27	Fokker	
+F27	Fairchild-Hiller	
+F28	Fokker	
+F2TH	Dassault	
+F35	Lockheed	
+F3F	Grumman	
+F3F	Grumman	
+F3F	Grumman	
+F4	McDonnell	
+F406	Cessna	
+F406	Reims	
+F406	Reims	
+F5	Canadair	
+F5	AIDC	
+F5	Northrop	
+F50	Fokker	
+F60	Fokker	
+F600	SIAI-Marchetti	
+F70	Fokker	
+F8	Chance-Vought	
+F8	LTV	
+F86	Canadair	
+F86	North American	
+F8L	Aviamilano	
+F900	Dassault	
+F900	Dassault	
+F9F	Grumman	
+FA10	Dassault	
+FA10	Dassault	
+FA10	Dassault	
+FA10	Dassault	
+FA11	Fairchild	
+FA20	Dassault	
+FA20	Dassault	
+FA20	Dassault	
+FA24	Fairchild	
+FA24	Fairchild	
+FA50	Dassault	
+FA50	Dassault	
+FA62	Fairchild	
+FA7X	Dassault	
+FALM	Miles	
+FANT	RFB	
+FC1	Chengdu	
+FFLY	Fairey	
+FH11	Fairchild-Hiller	
+FLAM	Dassault	
+FN33	SIAI-Marchetti	
+FOUG	Aerospatiale / SNIAS	
+FOUG	Fouga	
+FOUG	Potez	
+FOUG	Sud	
+FOUG	Potez	
+FREL	Aerospatiale / SNIAS	
+FREL	Sud	
+FU24	Fletcher	
+FURY	Hawker	
+FURY	Hawker	
+FW44	Focke-Wulf	
+FW90	Focke-Wulf	
+G109	Grob	
+G115	Grob	
+G120	Grob	
+G140	Grob	
+G150	IAI	
+G159	Grumman	
+G15T	Grob	
+G160	Grob	
+G164	American	
+G164	Grumman	
+G164	Schweizer	
+G21	Grumman	
+G222	Aeritalia	
+G222	Aeritalia	
+G2GL	SOKO	
+G44	Grumman	
+G46	Fiat	
+G4SG	SOKO	
+G59	Fiat	
+G64T	Schweizer	
+G64T	Ag-Cat	
+G64T	American	
+G64T	Grumman	
+G64T	Schweizer	
+G73	Grumman	
+G73T	Grumman	
+G96	Grumman	
+GA20	Gippsland	
+GA20	Gippsland	
+GA7	American	
+GA7	SOCATA	
+GA8	Gippsland	
+GALX	IAI	
+GALX	IAI	
+GANT	Fairey	
+GAUN	Gloster	
+GAZL	SOKO	
+GAZL	Aerospatiale / SNIAS	
+GAZL	Sud	
+GC1	Globe	
+GEMI	Miles	
+GF20	Grob	
+GL5T	Bombardier	
+GLAD	Gloster	
+GLEX	Bombardier	
+GLF2	Grumman	
+GLF2	Gulfstream	
+GLF3	Gulfstream	
+GLF4	Gulfstream	
+GLF4	Gulfstream	
+GLF4	Gulfstream	
+GLF4	Gulfstream	
+GLF4	Gulfstream	
+GLF5	Gulfstream	
+GLF5	Gulfstream	
+GLF5	Gulfstream	
+GNAT	Folland	
+GNAT	Hawker-Siddeley	
+GSPN	Grob	
+GY80	SOCATA	
+H111	CASA	
+H111	Heinkel	
+H12T	Hiller	
+H2	Kaman	
+H25A	De Havilland	
+H25A	Hawker-Siddeley	
+H25B	BAe	
+H25B	Hawker-Siddeley	
+H25B	Hawker-Beechcraft	
+H25B	Hawker-Beechcraft	
+H25C	BAe	
+H25C	Hawker-Beechcraft	
+H269	Hughes	
+H269	Schweizer	
+H269	Hughes	
+H269	Hughes	
+H43A	Kaman	
+H43B	Kaman	
+H46	Boeing Vertol	
+H46	Boeing Vertol	
+H46	Boeing Vertol	
+H46	Boeing Vertol	
+H46	Kawasaki	
+H46	Boeing Vertol	
+H47	Boeing Vertol	
+H47	Boeing Vertol	
+H500	Hughes	
+H500	Hughes	
+H500	Hughes	
+H500	MD Helicopters	
+H500	MD Helicopters	
+H53	Sikorsky	
+H53	Sikorsky	
+H53S	Sikorsky	
+H53S	Sikorsky	
+H60	Sikorsky	
+H60	Sikorsky	
+H60	Sikorsky	
+H60	Mitsubishi	
+H64	Hughes	
+H64	Hughes	
+H64	McDonnell Douglas	
+H64	Boeing Vertol	
+H64	Fuji	
+H64	McDonnell Douglas	
+H66	Boeing-Sikorsky	
+HA31	HAL	
+HA4T	Hawker-Beechcraft	
+HA4T	Hawker-Beechcraft	
+HAR	Boeing	
+HAR	McDonnell Douglas	
+HAR	BAe	
+HAR	Hawker-Siddeley	
+HAR	BAe	
+HAWK	BAe	
+HAWK	Hawker-Siddeley	
+HCAT	Grumman	
+HDJT	Honda	
+HERN	De Havilland	
+HERN	Hawker-Siddeley	
+HF20	HFB	
+HF20	MBB	
+HI27	Hirth	
+HIND	Hawker	
+HR10	Robin / Apex	
+HR20	Robin / Apex	
+HT16	HAL	
+HT2	HAL	
+HT32	HAL	
+HT36	HAL	
+HUCO	Bell Helicopter	
+HUNT	Hawker	
+HURI	Hawker	
+HURI	Hawker	
+HUSK	Aviat	
+I103	Ilyushin	
+I114	Ilyushin	
+I153	Polikarpov	
+I15B	Polikarpov	
+I16	Polikarpov	
+I23	PZL Swidnik	
+I3	Technoavia (Interavia)	
+IA46	FMA	
+IA46	FMA	
+IA50	FMA	
+IA50	FMA	
+IA51	FMA	
+IA51	FMA	
+IA58	FMA	
+IA63	FMA	
+IL14	Ilyushin	
+IL18	Ilyushin	
+IL18	Ilyushin	
+IL18	Ilyushin	
+IL18	Ilyushin	
+IL28	HAMC / Harbin	
+IL28	Ilyushin	
+IL38	Ilyushin	
+IL62	Ilyushin	
+IL76	Ilyushin	
+IL76	Ilyushin	
+IL76	Ilyushin	
+IL86	Ilyushin	
+IL86	Ilyushin	
+IL96	Ilyushin	
+IPAN	EMBRAER	
+IR27	ROMBAC	
+IR46	IAR	
+IS28	IAR	
+J1	Auster	
+J1	Taylorcraft	
+J10	Chengdu	
+J10	Chengdu	
+J2	Piper	
+J2	Piper	
+J3	Piper	
+J328	Fairchild-Dornier	
+J328	Fairchild-Dornier	
+J4	Piper	
+J5	Piper	
+J5	Piper	
+J8A	Shenyang	
+J8A	Shenyang	
+J8B	Shenyang	
+J8B	Shenyang	
+JAGR	BAC	
+JAGR	BAe	
+JAGR	Breguet	
+JAGR	SEPECAT	
+JAGR	SEPECAT	
+JAGR	HAL	
+JAST	SOKO	
+JCOM	IAI	
+JCOM	Aero Commander	
+JN76	Caudron	
+JN76	Caudron	
+JP10	GAP	
+JPRO	BAC	
+JPRO	BAe	
+JPRO	BAC	
+JPRO	Hunting	
+JPRO	Hunting Percival	
+JS1	Handley Page	
+JS20	Handley Page	
+JS20	Handley Page	
+JS20	Scottish Aviation	
+JS20	Scottish Aviation	
+JS31	BAe	
+JS31	BAe	
+JS31	BAe	
+JS32	BAe	
+JS41	BAe	
+JU52	CASA	
+JU52	Junkers	
+JUNR	Bölkow	
+JUNR	MFI	
+K126	Kamov	
+K226	Kamov	
+K35A	Boeing	
+K35E	Boeing	
+K35R	Boeing	
+K50	KAI	
+K50	KAI	
+K8	Nanchang	
+K8	Nanchang	
+KA25	Kamov	
+KA26	Kamov	
+KA27	Kamov	
+KA27	Kamov	
+KA27	Kamov	
+KA27	Kamov	
+KA27	Kamov	
+KA50	Kamov	
+KA52	Kamov	
+KA62	Kamov	
+KA62	Kamov	
+KE3	Boeing	
+KFIR	IAI	
+KH4	Kawasaki	
+KL07	Bölkow	
+KL07	Klemm	
+KL25	Klemm	
+KL35	Klemm	
+KM2	Fuji	
+KM2	Fuji	
+KMAX	Kaman	
+KR34	Fairchild	
+KR34	Fairchild	
+KRAG	SOKO	
+KRAG	SOKO	
+KT1	KAI	
+KT1	KAI	
+L10	Lockheed	
+L101	Lockheed	
+L11	Luscombe	
+L12	Lockheed	
+L13	Convair	
+L14	Lockheed	
+L14	Lockheed	
+L159	AERO	
+L18	Lockheed	
+L18	Learjet	
+L188	Lockheed	
+L200	LET	
+L29	AERO	
+L29A	Lockheed	
+L29B	Lockheed	
+L37	Lockheed	
+L37	Lockheed	
+L37	Lockheed	
+L39	AERO	
+L39	AERO	
+L40	Orlican	
+L410	LET	
+L410	LET	
+L5	Stinson	
+L59	AERO	
+L60	AERO	
+L610	LET	
+L8	Luscombe	
+L8	Luscombe	
+L90	Aermacchi / Macchi	
+LA25	Lake Aircraft	
+LA4	Lake Aircraft	
+LA60	Aermacchi / Macchi	
+LA60	Atlas	
+LA60	Lockheed	
+LA60	Lockheed-Azcarate	
+LAMA	HAL	
+LAMA	Aerospatiale / SNIAS	
+LAMA	Sud	
+LANC	AVRO	
+LARK	North American Rockwell	
+LJ23	Learjet	
+LJ24	Learjet	
+LJ25	Learjet	
+LJ31	Learjet	
+LJ35	Learjet	
+LJ35	Shin Meiwa	
+LJ40	Learjet	
+LJ45	Learjet	
+LJ55	Learjet	
+LJ60	Learjet	
+LTNG	BAC	
+LYNX	Westland	
+LYNX	Westland	
+LYSA	Westland	
+M10	Mooney	
+M101	Myasishchev	
+M110	Aviat	
+M15	PZL Mielec	
+M17	Myasishchev	
+M18	PZL Mielec	
+M18T	PZL Mielec	
+M200	North American Rockwell	
+M200	Aero Commander	
+M203	Myasishchev	
+M20P	Mooney	
+M20T	Mooney	
+M22	Mooney	
+M28	PZL Mielec	
+M2HK	Miles	
+M2HK	Miles	
+M308	Aermacchi / Macchi	
+M326	EMBRAER	
+M326	CAC	
+M326	EMBRAER	
+M326	Aermacchi / Macchi	
+M326	CAC	
+M326	Atlas	
+M339	Aermacchi / Macchi	
+M404	Martin	
+M55	Myasishchev	
+MAGI	Miles	
+MARS	Martin	
+MD11	McDonnell Douglas	
+MD52	McDonnell Douglas	
+MD52	McDonnell Douglas	
+MD52	MD Helicopters	
+MD52	McDonnell Douglas	
+MD52	McDonnell Douglas	
+MD60	McDonnell Douglas	
+MD60	MD Helicopters	
+MD81	McDonnell Douglas	
+MD82	McDonnell Douglas	
+MD83	McDonnell Douglas	
+MD87	McDonnell Douglas	
+MD88	McDonnell Douglas	
+MD90	McDonnell Douglas	
+ME08	Nord / SNCAN	
+ME08	Nord / SNCAN	
+ME08	Messerschmitt	
+ME09	Messerschmitt	
+ME09	Hispano	
+ME62	Messerschmitt	
+MESS	Miles	
+METR	Armstrong Withworth	
+METR	Gloster	
+MF17	Saab	
+MF17	Saab	
+MG15	PZL Mielec	
+MG15	PZL Mielec	
+MG15	Mikoyan	
+MG15	AERO	
+MG15	AERO	
+MG17	Shenyang	
+MG17	Chengdu	
+MG17	Shenyang	
+MG17	Chengdu	
+MG17	PZL Mielec	
+MG17	PZL Mielec	
+MG17	Mikoyan	
+MG19	Nanchang	
+MG19	Shenyang	
+MG19	Nanchang	
+MG19	Shenyang	
+MG19	Mikoyan	
+MG21	Chengdu	
+MG21	Chengdu	
+MG21	Mikoyan	
+MG23	Mikoyan	
+MG23	Mikoyan	
+MG23	HAL	
+MG25	Mikoyan	
+MG29	Mikoyan	
+MG29	Mikoyan	
+MG31	Mikoyan	
+MG44	Mikoyan	
+MGAT	Mikoyan	
+MH20	Mitsubishi	
+MI10	Mil	
+MI14	Mil	
+MI2	Mil	
+MI2	PZL Swidnik	
+MI24	Mil	
+MI24	Mil	
+MI24	Mil	
+MI26	Mil	
+MI28	Mil	
+MI34	Mil	
+MI38	Mil	
+MI4	Mil	
+MI4	HAMC / Harbin	
+MI6	Mil	
+MI6	Mil	
+MI8	Mil	
+MI8	Mil	
+MI8	Mil	
+MI8	Mil	
+MIR2	Dassault	
+MIR4	Dassault	
+MIRA	CAC	
+MIRA	Atlas	
+MIRA	IAI	
+MIRA	Dassault	
+MIRA	Dassault	
+MIRA	Dassault	
+MITE	Mooney	
+MONA	Miles	
+MOSQ	De Havilland	
+MRF1	Dassault	
+MS18	SOCATA	
+MS23	Morane-Saulnier	
+MS25	SOCATA	
+MS30	SOCATA	
+MS31	Morane-Saulnier	
+MS31	Morane-Saulnier	
+MS73	Morane-Saulnier	
+MS76	Morane-Saulnier	
+MSAI	Morane-Saulnier	
+MSAI	Morane-Saulnier	
+MSAI	Morane-Saulnier	
+MSAI	Morane-Saulnier	
+MT2	Mitsubishi	
+MU2	Mitsubishi	
+MU30	Mitsubishi	
+MYA4	Myasishchev	
+MYS4	Dassault	
+N110	Nord / SNCAN	
+N120	Nord / SNCAN	
+N260	Nord / SNCAN	
+N260	Max Holste	
+N262	Nord / SNCAN	
+N262	Aerospatiale / SNIAS	
+N262	Aerospatiale / SNIAS	
+N320	Nord / SNCAN	
+N340	Nord / SNCAN	
+N5	Nanchang	
+NAVI	North American	
+NAVI	Ryan	
+NC85	Nord / SNCAN	
+NC85	Nord / SNCAN	
+NI28	Nieuport	
+NIBB	Aviamilano	
+NIM	BAe	
+NIM	BAe	
+NIM	Hawker-Siddeley	
+NIPR	Avions Fairey	
+NIPR	Slingsby	
+NOMA	GAF	
+NORA	Nord / SNCAN	
+NORS	Noorduyn	
+O1	Cessna	
+O1	Fuji	
+OH1	Kawasaki	
+OPCA	Edgley / Optica	
+OSCR	Partenavia	
+OSCR	Partenavia	
+P136	Piaggio	
+P148	Piaggio	
+P149	Focke-Wulf	
+P149	Piaggio	
+P180	Piaggio	
+P19	Aviamilano	
+P2	Lockheed	
+P210	Cessna	
+P28A	Piper	
+P28A	EMBRAER	
+P28A	EMBRAER	
+P28A	EMBRAER	
+P28A	EMBRAER	
+P28B	Piper	
+P28B	EMBRAER	
+P28R	Piper	
+P28R	Piper	
+P28R	Piper	
+P28R	Piper	
+P28R	EMBRAER	
+P28T	Piper	
+P28T	Piper	
+P28T	EMBRAER	
+P3	Lockheed	
+P3	Kawasaki	
+P3	Lockheed	
+P3	Lockheed	
+P32R	Piper	
+P32R	Piper	
+P32R	Piper	
+P32R	EMBRAER	
+P32T	Piper	
+P337	Reims	
+P337	Cessna	
+P38	Lockheed	
+P38	Lockheed	
+P39	Bell Aircraft	
+P40	Curtiss	
+P40	Curtiss	
+P46T	Piper	
+P47	Republic	
+P4Y	Convair	
+P51	CAC	
+P51	North American	
+P57	Partenavia	
+P61	Northrop	
+P63	Bell Aircraft	
+P66P	Piaggio	
+P66T	Piaggio	
+P66T	Piaggio	
+P68	Partenavia	
+P68	Partenavia	
+P68T	Partenavia	
+P750	PAC	
+P808	Piaggio	
+P82	North American	
+P82	North American	
+PA11	Piper	
+PA12	Piper	
+PA14	Piper	
+PA15	Piper	
+PA16	Piper	
+PA17	Piper	
+PA18	Piper	
+PA20	Piper	
+PA22	Piper	
+PA22	Piper	
+PA22	Piper	
+PA23	Piper	
+PA24	Piper	
+PA25	EMBRAER	
+PA25	Piper	
+PA27	Piper	
+PA27	Piper	
+PA30	Piper	
+PA31	EMBRAER	
+PA31	Piper	
+PA32	EMBRAER	
+PA32	Piper	
+PA34	EMBRAER	
+PA34	PZL Mielec	
+PA34	Piper	
+PA36	Piper	
+PA38	Piper	
+PA44	Piper	
+PA46	Piper	
+PA46	Piper	
+PAT4	Piper	
+PAY1	Piper	
+PAY2	Piper	
+PAY4	Piper	
+PC12	Pilatus	
+PC21	Pilatus	
+PC6P	Pilatus	
+PC6T	Pilatus	
+PC7	Atlas	
+PC7	Denel	
+PC7	Pilatus	
+PC7	HESA	
+PC9	Pilatus	
+PEGA	General Avia	
+PEMB	Hunting	
+PEMB	Hunting Percival	
+PEMB	Percival	
+PICO	General Avia	
+PICO	General Avia	
+PILL	CASA	
+PILL	Piper	
+PILL	CASA	
+PINO	General Avia	
+PLUS	Taylorcraft	
+PO2	PZL Mielec	
+PO2	PZL Okecie	
+PO2	Polikarpov	
+PO60	Potez	
+PO60	Potez	
+PP2	Pilatus	
+PP3	Pilatus	
+PPRO	Hunting	
+PPRO	Hunting Percival	
+PPRO	Percival	
+PRCE	Percival	
+PREN	Percival	
+PRM1	Hawker-Beechcraft	
+PROC	Percival	
+PSW4	PZL Swidnik	
+PT22	Ryan	
+PT22	Ryan	
+PTMS	Pitts / Aviat	
+PTMS	Pitts / Aviat	
+PTS1	Aviat	
+PTS1	Aerotek	
+PTS1	Christen	
+PTS1	Pitts / Aviat	
+PTS2	Aviat	
+PTS2	Aerotek	
+PTS2	Christen	
+PTS2	Pitts / Aviat	
+PTSS	Aviat	
+PTSS	Pitts / Aviat	
+PUMA	IAR	
+PUMA	Westland	
+PUMA	Aerospatiale / SNIAS	
+PUMA	Sud	
+PUP	Beagle	
+PZ01	PZL Okecie	
+PZ02	PZL Okecie	
+PZ04	PZL Okecie	
+PZ05	PZL Okecie	
+PZ06	PZL Okecie	
+PZ12	PZL Okecie	
+PZ26	PZL Okecie	
+PZ3T	PZL Okecie	
+PZ4M	PZL Okecie	
+PZ6T	PZL Okecie	
+Q5	Nanchang	
+Q5	Nanchang	
+R100	Robin / Apex	
+R135	Boeing	
+R200	Robin / Apex	
+R200	Alpha	
+R300	Robin / Apex	
+R300	Robin / Apex	
+R300	Robin / Apex	
+R300	Robin / Apex	
+R300	Robin / Apex	
+R721	Boeing	
+R722	Boeing	
+R90F	Ruschmeyer	
+R90R	Ruschmeyer	
+R90T	Ruschmeyer	
+RALL	PZL Okecie	
+RALL	Morane-Saulnier	
+RALL	Morane-Saulnier	
+RALL	Morane-Saulnier	
+RALL	Morane-Saulnier	
+RC3	Republic	
+RC70	Rockwell	
+RC70	Fuji	
+RELI	Stinson	
+RF10	Fournier	
+RF4	Sportavia-Pützer	
+RF47	Fournier	
+RF5	Sportavia-Pützer	
+RF6	Slingsby	
+RF6	Fournier	
+RF9	Fournier	
+RFAL	Dassault	
+RJ1H	BAe	
+RJ1H	BAe	
+RJ70	BAe	
+RJ70	BAe	
+RJ85	BAe	
+RJ85	BAe	
+ROND	Ambrosini	
+ROND	Ambrosini	
+RP1	Mitsubishi	
+RS18	Sportavia-Pützer	
+RV10	Vans	
+RV3	Vans	
+RV4	Vans	
+RV4T	Vans	
+RV6	Vans	
+RV7	Vans	
+RV8	Vans	
+RV9	Vans	
+RVAL	Denel	
+RVAL	Atlas	
+RVAL	Denel	
+RYST	Ryan	
+RYST	Ryan	
+S05F	SIAI-Marchetti	
+S05R	SIAI-Marchetti	
+S10	Stinson	
+S108	Piper	
+S108	Stinson	
+S108	Piper	
+S108	Stinson	
+S11	Fokker	
+S208	SIAI-Marchetti	
+S210	Aerospatiale / SNIAS	
+S210	Sud-Est	
+S210	Sud	
+S211	SIAI-Marchetti	
+S211	SIAI-Marchetti	
+S223	CASA	
+S223	Hispano	
+S223	MBB	
+S223	SIAT	
+S278	HESA	
+S2P	De Havilland Canada	
+S2P	Grumman	
+S2T	Grumman	
+S2T	IAI	
+S3	Lockheed	
+S330	Schweizer	
+S330	Schweizer	
+S360	Aerospatiale / SNIAS	
+S37	Suchoi / Sukhoi	
+S37	Suchoi / Sukhoi	
+S38	Sikorsky	
+S39	Sikorsky	
+S51	Sikorsky	
+S51	Sikorsky	
+S52	Sikorsky	
+S52	Sikorsky	
+S55P	Sikorsky	
+S55P	Sikorsky	
+S55P	Sikorsky	
+S55P	Sikorsky	
+S55T	Sikorsky	
+S55T	Westland	
+S58P	Sikorsky	
+S58P	Sikorsky	
+S58P	Sikorsky	
+S58P	Sikorsky	
+S58T	Sikorsky	
+S601	Aerospatiale / SNIAS	
+S61	Mitsubishi	
+S61	Sikorsky	
+S61	Sikorsky	
+S61	Agusta / AgustaWestland	
+S61	Sikorsky	
+S61	Sikorsky	
+S61	Westland	
+S61	Westland	
+S61	Sikorsky	
+S61R	Sikorsky	
+S61R	Agusta / AgustaWestland	
+S61R	Sikorsky	
+S62	Sikorsky	
+S62	Sikorsky	
+S64	Sikorsky	
+S64	Sikorsky	
+S65C	Aerospatiale / SNIAS	
+S76	Sikorsky	
+S92	Sikorsky	
+SA20	Beriev	
+SA37	Schweizer	
+SAND	Shorts	
+SAPH	Piel	
+SASP	Supermarine	
+SATA	Hispano	
+SATA	CASA	
+SATA	Hispano	
+SAVG	Zlin	
+SB05	Saab	
+SB20	Saab	
+SB29	Saab	
+SB32	Saab	
+SB35	Saab	
+SB37	Saab	
+SB39	Saab	
+SB39	Saab	
+SB91	Saab	
+SBD	Douglas	
+SBR1	North American	
+SBR1	North American Rockwell	
+SBR2	North American Rockwell	
+SBR2	Rockwell	
+SBR2	Rockwell	
+SC7	Shorts	
+SCOU	Westland	
+SE5R	Royal Aircraft Factory	
+SF34	Saab	
+SG92	Technoavia (Interavia)	
+SH33	Shorts	
+SH36	Shorts	
+SH5	HAMC / Harbin	
+SHAC	AVRO	
+SHAW	Armstrong Withworth	
+SHAW	Hawker	
+SJ30	Sino Swearingen	
+SL90	Technoavia (Interavia)	
+SM19	SIAI-Marchetti	
+SM20	Technoavia (Interavia)	
+SM60	Stinson	
+SM92	Technoavia (Interavia)	
+SMB2	Dassault	
+SOKL	Benes-Mraz	
+SP18	Luscombe	
+SP55	Technoavia (Interavia)	
+SP91	Technoavia (Interavia)	
+SP95	Technoavia (Interavia)	
+SPIT	Supermarine	
+SPIT	Supermarine	
+SR20	Cirrus	
+SR22	Cirrus	
+SR71	Lockheed	
+SS2P	North American Rockwell	
+SS2P	Ayres	
+SS2P	Aero Commander	
+SS2P	Ayres	
+SS2P	North American Rockwell	
+SS2P	Rockwell	
+SS2T	Ayres	
+SS2T	Thrush	
+SSAB	North American	
+ST10	SOCATA	
+ST75	Boeing	
+ST75	Stearman	
+ST75	Stearman	
+ST75	Boeing	
+ST75	Stearman	
+ST75	Boeing	
+ST75	Stearman	
+ST75	Boeing	
+ST75	Boeing	
+STAR	Beech	
+STLN	Helio	
+STRI	Sopwith	
+SU15	Suchoi / Sukhoi	
+SU17	Suchoi / Sukhoi	
+SU17	Suchoi / Sukhoi	
+SU17	Suchoi / Sukhoi	
+SU24	Suchoi / Sukhoi	
+SU25	Suchoi / Sukhoi	
+SU25	Suchoi / Sukhoi	
+SU25	Suchoi / Sukhoi	
+SU26	Suchoi / Sukhoi	
+SU27	Shenyang	
+SU27	Suchoi / Sukhoi	
+SU27	Suchoi / Sukhoi	
+SU27	Suchoi / Sukhoi	
+SU27	Suchoi / Sukhoi	
+SU27	Suchoi / Sukhoi	
+SU27	Suchoi / Sukhoi	
+SU27	Suchoi / Sukhoi	
+SU29	Suchoi / Sukhoi	
+SU31	Suchoi / Sukhoi	
+SU38	Suchoi / Sukhoi	
+SU7	Suchoi / Sukhoi	
+SU80	Suchoi / Sukhoi	
+SUBA	Fuji	
+SUCO	Bell Helicopter	
+SV4	Nord / SNCAN	
+SW2	Swearingen	
+SW3	Fairchild	
+SW3	Fairchild-Swearingen	
+SW3	Swearingen	
+SW4	Fairchild	
+SW4	Fairchild	
+SW4	Fairchild-Swearingen	
+SW4	Swearingen	
+SW4	Fairchild	
+SW4	Fairchild-Swearingen	
+SW4	Swearingen	
+SWIF	Supermarine	
+SWOR	Blackburn	
+SWOR	Fairey	
+SYCA	Bristol	
+SYCA	Bristol	
+T1	Fuji	
+T134	Tupolev	
+T144	Tupolev	
+T154	Tupolev	
+T160	Tupolev	
+T2	North American	
+T2	North American Rockwell	
+T204	Tupolev	
+T204	Tupolev	
+T204	Tupolev	
+T204	Tupolev	
+T22M	Tupolev	
+T250	Bellanca	
+T28	North American	
+T33	Canadair	
+T33	Canadair	
+T33	Lockheed	
+T33	Lockheed	
+T334	Tupolev	
+T34P	Beech	
+T34P	Fuji	
+T34P	Beech	
+T34T	Beech	
+T34T	Fuji	
+T37	Cessna	
+T38	Northrop	
+T4	Kawasaki	
+T5	Fuji	
+T5	Fuji	
+T6	Noorduyn	
+T6	North American	
+T6	North American	
+T6	CCF	
+T6	North American	
+T7	Fuji	
+TA15	Taylorcraft	
+TA15	Taylorcraft	
+TA20	Taylorcraft	
+TA20	Taylorcraft	
+TA20	Taylorcraft	
+TA20	Taylorcraft	
+TAMP	SOCATA	
+TAMP	SOCATA	
+TAYA	Taylorcraft	
+TAYB	Taylorcraft	
+TAYD	Taylorcraft	
+TB30	Aerospatiale / SNIAS	
+TB30	SOCATA	
+TB31	SOCATA	
+TBM	Grumman	
+TBM7	SOCATA	
+TBM8	SOCATA	
+TCAT	Grumman	
+TCOU	Helio	
+TEX2	Hawker-Beechcraft	
+TEX2	Hawker-Beechcraft	
+TF19	Taylorcraft	
+TF21	Taylorcraft	
+TF22	Taylorcraft	
+TIGR	Eurocopter	
+TIJU	Avions Fairey	
+TIPB	Avions Fairey	
+TIPB	Avions Fairey	
+TIPB	Avions Fairey	
+TIPB	Avions Fairey	
+TOBA	SOCATA	
+TOR	Panavia	
+TOUR	AESL	
+TOUR	Victa / AESL	
+TPIN	Scottish Aviation	
+TRID	De Havilland	
+TRID	Hawker-Siddeley	
+TRIM	Ford	
+TRIM	Ford	
+TRIN	SOCATA	
+TRIS	Britten Norman	
+TRMA	Stinson	
+TS11	PZL Mielec	
+TS8	PZL Mielec	
+TU16	Tupolev	
+TU22	Tupolev	
+TU4	Tupolev	
+TU95	Tupolev	
+TU95	Tupolev	
+TU95	Tupolev	
+TUCA	EMBRAER	
+TUCA	EMBRAER	
+TUCA	Shorts	
+TUTR	AVRO	
+U16	Grumman	
+U2	Lockheed	
+U21	Beech	
+UH1	Bell Helicopter	
+UH1	Bell Helicopter	
+UH1	Bell Helicopter	
+UH12	Fairchild-Hiller	
+UH12	Hiller	
+UH1Y	Bell Helicopter	
+US1	Shin Meiwa	
+UT60	UTVA	
+UT65	UTVA	
+UT66	UTVA	
+UT75	UTVA	
+UU12	Udet	
+V1	Grumman	
+V10	North American	
+V10	North American Rockwell	
+V10	Rockwell	
+V22	Bell Helicopter	
+V22	Boeing Vertol	
+V22	Bell-Boeing	
+VALI	Convair	
+VALI	Vultee	
+VAMP	De Havilland	
+VAMP	De Havilland	
+VAUT	Sud	
+VC10	BAC	
+VC10	Vickers	
+VF14	VFW	
+VF35	Lockheed	
+VGUL	Percival	
+VIMY	Vickers	
+VISC	Vickers	
+VMT	Myasishchev	
+VNOM	De Havilland	
+VO10	Aero Commander	
+VO10	North American Rockwell	
+VO10	Volaircraft	
+VP2	Evans	
+VTOR	Partenavia	
+W3	PZL Swidnik	
+WA40	Wassmer	
+WA41	Wassmer	
+WA42	Wassmer	
+WA50	Wassmer	
+WA50	Wassmer	
+WA50	Wassmer	
+WA80	Wassmer	
+WAC9	WACO	
+WACA	WACO	
+WACC	WACO	
+WACC	WACO	
+WACC	WACO	
+WACC	WACO	
+WACD	WACO	
+WACE	WACO	
+WACF	WACO Classic	
+WACF	WACO	
+WACF	WACO	
+WACF	WACO	
+WACF	WACO	
+WACG	WACO	
+WACM	WACO	
+WACN	WACO	
+WACN	WACO	
+WACO	WACO	
+WACO	WACO	
+WACO	WACO	
+WACO	WACO	
+WACO	WACO	
+WACO	WACO	
+WACO	WACO	
+WACT	WACO	
+WASP	Westland	
+WCAT	Grumman	
+WESX	Westland	
+WG30	Westland	
+WHIT	Miles	
+WIRR	CAC	
+WW23	IAI	
+WW24	IAI	
+Y11	HAMC / Harbin	
+Y112	Yakovlev / Jakovlev	
+Y12	HAMC / Harbin	
+Y130	Aermacchi / Macchi	
+Y130	Yakovlev / Jakovlev	
+Y141	Yakovlev / Jakovlev	
+Y18T	Technoavia (Interavia)	
+Y18T	Technoavia (Interavia)	
+Y18T	Yakovlev / Jakovlev	
+YAK3	Yakovlev / Jakovlev	
+YAK9	Yakovlev / Jakovlev	
+YALE	North American	
+YK11	LET	
+YK11	Yakovlev / Jakovlev	
+YK12	PZL Okecie	
+YK12	Yakovlev / Jakovlev	
+YK18	Nanchang	
+YK18	Yakovlev / Jakovlev	
+YK18	Yakovlev / Jakovlev	
+YK28	Yakovlev / Jakovlev	
+YK38	Yakovlev / Jakovlev	
+YK40	Yakovlev / Jakovlev	
+YK42	Yakovlev / Jakovlev	
+YK42	Yakovlev / Jakovlev	
+YK50	Yakovlev / Jakovlev	
+YK52	Aerostar	
+YK52	Yakovlev / Jakovlev	
+YK53	Yakovlev / Jakovlev	
+YK54	Yakovlev / Jakovlev	
+YK55	Yakovlev / Jakovlev	
+YK58	Yakovlev / Jakovlev	
+YS11	NAMC	
+YURO	IAR	
+YURO	SOKO	
+Z22	Zlin	
+Z22	Zlin	
+Z26	Zlin	
+Z26	Zlin	
+Z26	Zlin	
+Z26	Zlin	
+Z26	Zlin	
+Z26	Zlin	
+Z26	Zlin	
+Z26	Zlin	
+Z26	Zlin	
+Z26	Zlin	
+Z26	Zlin	
+Z26	Zlin	
+Z26	Zlin	
+Z26	Zlin	
+Z26	Zlin	
+Z26	Zlin	
+Z26	Zlin	
+Z26	Zlin	
+Z26	Zlin	
+Z26	Zlin	
+Z37P	LET	
+Z37P	Zlin	
+Z37P	LET	
+Z37P	Zlin	
+Z37T	Zlin	
+Z37T	Zlin	
+Z42	Zlin	
+Z42	Zlin	
+Z42	Zlin	
+Z42	Zlin	
+Z42	Zlin	
+Z42	Zlin	
+Z43	Zlin	
+Z43	Zlin	
+Z43	Zlin	
+Z43	Zlin	
+Z50	Zlin	
+Z50	Zlin	
+ZERO	Mitsubishi	
