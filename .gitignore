@@ -1,0 +1,14 @@
+## Python bytecodes ##
+__pycache__/
+
+## Environmental variables ##
+.env
+
+## Database ##
+db.sqlite3
+
+## Virtual environment ##
+env
+
+## Static Files ##
+/staticfiles
