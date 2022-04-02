@@ -1,18 +1,28 @@
 from rest_framework import serializers
 
+from flights.models import Flight
+
 from .models import User, Airline, Traveler
 
 
 class UserSerializer(serializers.ModelSerializer):
      class Meta:
         model = User
-        fields = ['id', 'username', 'email', 'password']
-        extra_kwargs = {'password': {'write_only': True, 'style': {'input_type': 'password'}}}
+        fields = ['id', 'username', 'email', 'password', 'is_traveler', 'is_airline']
+        extra_kwargs = {'password': {'write_only': True, 'style': {'input_type': 'password'}}, 'is_traveler': {'read_only': True}, 'is_airline': {'read_only': True}}
 
+
+class UserFlightSerializer(serializers.ModelSerializer):
+    airline = serializers.ReadOnlyField(source='airline.official_name')
+
+    class Meta:
+        model = Flight
+        fields = ['flight_number', 'airline', 'departure_airport', 'arrival_airport', 'flight_date']
+        
 
 class TravelerSerializer(serializers.ModelSerializer):
     owner = UserSerializer(required=True)
-    traveler_flights = serializers.PrimaryKeyRelatedField(many=True, read_only=True)
+    traveler_flights = UserFlightSerializer(many=True, read_only=True)
 
     class Meta:
         model = Traveler
@@ -39,7 +49,7 @@ class TravelerSerializer(serializers.ModelSerializer):
 
 class AirlineSerializer(serializers.ModelSerializer):
     owner = UserSerializer(required=True)
-    airline_flights = serializers.PrimaryKeyRelatedField(many=True, read_only=True)
+    airline_flights = UserFlightSerializer(many=True, read_only=True)
 
     class Meta:
         model = Airline
